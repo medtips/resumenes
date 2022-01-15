@@ -1,0 +1,369 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1117px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Comfortaa-Regular;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
+  margin: 109px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: Comfortaa-Regular;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
+  text-align: center;
+  margin: 120px auto 0;
+}
+
+.u-section-1 .u-list-1 {
+  margin-top: 36px;
+  margin-bottom: 60px;
+  grid-template-rows: auto;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(
+      33.3333% - 6.66667px
+    );
+  grid-gap: 10px 10px;
+  min-height: 530px;
+}
+
+.u-section-1 .u-image-1 {
+  background-image: url("images/5TO.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-2 {
+  background-image: url("images/4TO.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-3 {
+  background-image: url("images/3RO.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 71px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 172px;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-top: 67px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    min-height: 427px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 50vw;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 162px;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-top: 41px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    min-height: 375px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1470px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 109px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 134px;
+    margin-left: 52px;
+    margin-right: 52px;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-top: 16px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: calc(50% - 5px) calc(50% - 5px);
+    min-height: 844px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1882px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 85px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-top: 21px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+    min-height: 1450px;
+  }
+
+  .u-section-1 .u-image-1 {
+    background-position: 50% 32.44%;
+  }
+}
+.u-section-2 .u-sheet-1 {
+  min-height: 545px;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: Comfortaa-Regular;
+  font-weight: 700;
+  font-size: 2.25rem;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
+  margin: 86px auto 0;
+}
+
+.u-section-2 .u-accordion-1 {
+  width: 800px;
+  margin: 40px auto 60px;
+}
+
+.u-section-2 .u-accordion-link-1 {
+  background-image: none;
+  font-weight: 700;
+  font-family: Comfortaa-Regular;
+  font-size: 1.25rem;
+  padding: 30px;
+}
+
+.u-section-2 .u-icon-1 {
+  height: 20px;
+  width: 20px;
+}
+
+.u-section-2 .u-accordion-pane-1 {
+  min-height: 150px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 20px 29px;
+}
+
+.u-section-2 .u-text-2 {
+  line-height: 25.6px;
+  font-family: Roboto, sans-serif;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
+  font-weight: 700;
+  margin: 0 1px;
+}
+
+.u-section-2 .u-accordion-link-2 {
+  background-image: none;
+  font-weight: 700;
+  font-family: Comfortaa-Regular;
+  font-size: 1.25rem;
+  padding: 30px;
+}
+
+.u-section-2 .u-icon-2 {
+  height: 20px;
+  width: 20px;
+}
+
+.u-section-2 .u-accordion-pane-2 {
+  min-height: 150px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 20px 30px;
+}
+
+.u-section-2 .u-text-3 {
+  line-height: 25.6px;
+  font-style: normal;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
+  font-weight: 700;
+  margin: 0;
+}
+
+.u-section-2 .u-accordion-link-3 {
+  background-image: none;
+  font-weight: 700;
+  font-family: Comfortaa-Regular;
+  font-size: 1.25rem;
+  padding: 30px;
+}
+
+.u-section-2 .u-icon-3 {
+  height: 20px;
+  width: 20px;
+}
+
+.u-section-2 .u-accordion-pane-3 {
+  min-height: 150px;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 20px 30px;
+}
+
+.u-section-2 .u-text-4 {
+  line-height: 25.6px;
+  font-style: normal;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
+  font-weight: 700;
+  margin: 0;
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-accordion-1 {
+    width: 720px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 567px;
+  }
+
+  .u-section-2 .u-accordion-1 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 541px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 1.5rem;
+    margin-top: 60px;
+  }
+
+  .u-section-2 .u-accordion-1 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-accordion-link-1 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-2 .u-accordion-link-2 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-2 .u-accordion-link-3 {
+    font-size: 1.125rem;
+  }
+}
+@font-face {
+  font-family: "Comfortaa-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Comfortaa-Regular.ttf);
+}
+
+#this {
+  background: linear-gradient(270deg, #3acae8, #bb7af3);
+  background-size: 400% 400%;
+
+  -webkit-animation: AnimationName 10s ease infinite;
+  -moz-animation: AnimationName 10s ease infinite;
+  -o-animation: AnimationName 10s ease infinite;
+  animation: AnimationName 10s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+  0% {
+    background-position: 0% 42%;
+  }
+  50% {
+    background-position: 100% 59%;
+  }
+  100% {
+    background-position: 0% 42%;
+  }
+}
+@-moz-keyframes AnimationName {
+  0% {
+    background-position: 0% 42%;
+  }
+  50% {
+    background-position: 100% 59%;
+  }
+  100% {
+    background-position: 0% 42%;
+  }
+}
+@-o-keyframes AnimationName {
+  0% {
+    background-position: 0% 42%;
+  }
+  50% {
+    background-position: 100% 59%;
+  }
+  100% {
+    background-position: 0% 42%;
+  }
+}
+@keyframes AnimationName {
+  0% {
+    background-position: 0% 42%;
+  }
+  50% {
+    background-position: 100% 59%;
+  }
+  100% {
+    background-position: 0% 42%;
+  }
+}
